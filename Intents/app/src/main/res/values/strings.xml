@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="actions">
+        <item>Do nothing</item>
+        <item>Visit Deltaprogram.us</item>
+        <item>Call someone</item>
+        <item>Map of YETspaceATX</item>
+        <item>Take a Picture</item>
+        <item>Edit first contact</item>
+    </string-array>
+</resources>

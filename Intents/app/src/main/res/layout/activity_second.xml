@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#b24261"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="28dp"
+    android:paddingRight="28dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp">
+    <TextView
+        android:id="@+id/activityName"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Second Activity"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        />
+    <TextView
+        android:id="@+id/userSelection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        android:layout_centerInParent="true"
+        android:background="#1da38c"
+        android:text="Nothing selected yet"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2">
+        <Button
+            android:id="@+id/goFirstActivity"
+            android:background="#227793"
+            android:text="First Activity"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:padding="30dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+        </Button>
+        <Button
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/goDetailActivity"
+            android:background="#87b553"
+            android:text="Detail Activity"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:padding="30dp"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
