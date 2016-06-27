@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxes</string>
+    <string name="title_message">Select fruits</string>
+    <string name="apple">Apple</string>
+    <string name="orange">Orange</string>
+    <string name="grapes">Grapes</string>
+    <string name="done">Done</string>
+</resources>
