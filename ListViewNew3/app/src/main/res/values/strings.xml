@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListViewNew3</string>
+    <string-array name="movie_titles">
+        <item>"Spectre"</item>
+        <item>"Creed"</item>
+        <item>"Inside Out"</item>
+        <item>"Ant Man"</item>
+        <item>"Legend"</item>
+        <item>"SpotLight"</item>
+        <item>"Carrol"</item>
+        <item>"Brooklyn"</item>
+        <item>"Goosebumps"</item>
+    </string-array>
+    <string-array name="movie_ratings">
+        <item>Rating:7.3/10</item>
+        <item>Rating: 8/10</item>
+        <item>Rating:7.9/10</item>
+        <item>Rating:4.3/10</item>
+        <item>Rating:9/10</item>
+        <item>Rating:9.3/10</item>
+        <item>Rating:3/10</item>
+        <item>Rating:7.8/10</item>
+        <item>Rating:9.4/10</item>
+    </string-array>
+</resources>
