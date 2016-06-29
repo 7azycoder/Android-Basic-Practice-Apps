@@ -11,7 +11,7 @@ import java.util.Calendar;
 /**
  * Created by devlovepreet on 28/6/16.
  */
-public class DialogHandler extends DialogFragment {
+public class DialogHandler extends android.support.v4.app.DialogFragment {
 
 
     @Override
