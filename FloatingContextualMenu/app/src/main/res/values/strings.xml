@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Floating Contextual Menu</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_share">Share</string>
+    <string name="title_help">Help</string>
+
+    <string-array name="android_version">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>MarshMallow</item>
+    </string-array>
+</resources>
